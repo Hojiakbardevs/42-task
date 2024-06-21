@@ -29,10 +29,6 @@
   color: #ffd600;
 }
 
-.right {
-  position: relative;
-}
-
 .col {
   display: flex;
   flex-direction: column;
